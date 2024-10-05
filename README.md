@@ -1,1 +1,3 @@
 # OC-Project-SQL-Queries-with-SQLite
+
+# En tant que consultant Business Intelligence Analyst auprès d'une plateforme de e-commerce, j'ai contribué à l'amélioration de la qualité du réseau de magasins à partir des retours clients. J'ai reformulé les besoins du service client pour garantir une compréhension mutuelle claire, chargé et mis à jour la base de données avec des informations supplémentaires, et rédigé des requêtes SQL pour répondre aux questions clés. J'ai également élaboré une documentation technique et préparé une présentation non-technique destinée au responsable du service client, permettant à l'entreprise d'améliorer son approche centrée sur la satisfaction client.
